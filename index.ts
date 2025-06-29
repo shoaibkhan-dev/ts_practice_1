@@ -54,5 +54,5 @@ console.log(person.gender); // Output: "MALE"
 
 const person1: string = "shoaib"
 console.log(person1)
-const person2: string = "shoaib"
-console.log(person1)
+
+let age: number = 23;
