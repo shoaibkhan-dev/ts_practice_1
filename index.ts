@@ -53,3 +53,4 @@ const person: Human = {
 console.log(person.gender); // Output: "MALE"
 
 const person1: string = "shoaib"
+console.log(person1)
